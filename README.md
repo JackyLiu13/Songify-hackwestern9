@@ -1,6 +1,6 @@
 # Songify-hackwestern9
-<a href="https://docs.google.com/presentation/d/1_4Yy5c729_TXS8N55qw7Bi1yjCicuOIpnx2LxYniTlY/edit?usp=sharing"><h3>Presentation Link</h3></a>
-<a href="https://devpost.com/software/hackwesternplaylist"><h2>DevPost</h2></a>
+<h2><a href="https://devpost.com/software/hackwesternplaylist"></a></h2>
+<h3><a href="https://docs.google.com/presentation/d/1_4Yy5c729_TXS8N55qw7Bi1yjCicuOIpnx2LxYniTlY/edit?usp=sharing">Presentation Link</a></h3>
 
 ## Inspiration
 We all love listening to music on Spotify, but depending on the mood of the day, we want to listen to songs on different themes. Impressed by the cool natural language processing tech that Cohere offers, we decided to create Songify that uses Cohere to create Spotify playlists based on the user's request. 
