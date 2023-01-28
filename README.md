@@ -1,5 +1,6 @@
 # Songify-hackwestern9
-<h2><a href="https://devpost.com/software/hackwesternplaylist"></a></h2>
+<h2><a href="https://devpost.com/software/hackwesternplaylist">DevPost</a></h2>
+
 <h3><a href="https://docs.google.com/presentation/d/1_4Yy5c729_TXS8N55qw7Bi1yjCicuOIpnx2LxYniTlY/edit?usp=sharing">Presentation Link</a></h3>
 
 ## Inspiration
